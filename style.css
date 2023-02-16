@@ -1,3 +1,4 @@
+!--by yab0ikai(Jaden)
 .rainbow {
   animation-name: rainbowtext;
   animation-duration: 10s;
@@ -38,3 +39,4 @@
     color: hsl(359 100% 50%);
   }
 }
+!--the rainbow stuff was copied from my codepen project from freecodecamp
