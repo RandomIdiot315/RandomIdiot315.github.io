@@ -1,0 +1,41 @@
+.rainbow {
+  animation-name: rainbowtext;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+
+  @keyframes rainbowtext {
+  0% {
+    color: hsl(359 100% 50%)
+  }
+  10% {
+    color: hsl(35.9 100% 50%);
+  }
+  20% {
+    color :hsl(71.8 100% 50%);
+  }
+  30% {
+    color: hsl(107.7 100% 50%);
+  }
+  40% {
+    color: hsl(143.6 100% 50%);
+  }
+  50% {
+    color: hsl(179.5 100% 50%);
+  }
+  60% {
+    color: hsl(215.4 100% 50%);
+  }
+  70% {
+    color: hsl(251.3 100% 50%);
+  }
+  80% {
+    color: hsl(287.2 100% 50%);
+  }
+  90% {
+    color: hsl(323.1 100% 50%);
+  }
+  100% {
+    color: hsl(359 100% 50%);
+  }
+}
