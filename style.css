@@ -3,8 +3,7 @@
   animation-duration: 10s;
   animation-iteration-count: infinite;
 }
-
-  @keyframes rainbowtext {
+@keyframes rainbowtext {
   0% {
     color: hsl(359 100% 50%)
   }
